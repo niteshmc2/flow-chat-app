@@ -1,5 +1,5 @@
 export class AppConstants {
-  public static STICKY_SERVER_BASE_URL: String = 'http://localhost:3000';
+  public static STICKY_SERVER_BASE_URL: String = 'https://flow-chat-server.herokuapp.com';
 
   public static LOGIN_URL: String = AppConstants.STICKY_SERVER_BASE_URL + '/login';
 
